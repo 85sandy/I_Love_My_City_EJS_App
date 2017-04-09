@@ -1,0 +1,26 @@
+{
+  "name": "ilovemycityapp",
+  "version": "1.0.0",
+  "description": "I love my cityejs app",
+  "main": "app.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/85sandy/I_Love_My_City_EJS_App.git"
+  },
+  "keywords": [
+    "ilovemycityejs"
+  ],
+  "author": "Sandhya KJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/85sandy/I_Love_My_City_EJS_App/issues"
+  },
+  "homepage": "https://github.com/85sandy/I_Love_My_City_EJS_App#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.13.3"
+  }
+}
